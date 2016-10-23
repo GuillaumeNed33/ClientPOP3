@@ -1,0 +1,17 @@
+Z:\S2\Réseaux\TP4\seanceTCP\CSharp\ClientPOP3\ConsoleClientPOP3_Mai2015\bin\Debug\ConsoleClientPOP3_Mai2015.exe.config
+Z:\S2\Réseaux\TP4\seanceTCP\CSharp\ClientPOP3\ConsoleClientPOP3_Mai2015\bin\Debug\ConsoleClientPOP3_Mai2015.exe
+Z:\S2\Réseaux\TP4\seanceTCP\CSharp\ClientPOP3\ConsoleClientPOP3_Mai2015\bin\Debug\ConsoleClientPOP3_Mai2015.pdb
+Z:\S2\Réseaux\TP4\seanceTCP\CSharp\ClientPOP3\ConsoleClientPOP3_Mai2015\obj\Debug\ConsoleClientPOP3_Mai2015.exe
+Z:\S2\Réseaux\TP4\seanceTCP\CSharp\ClientPOP3\ConsoleClientPOP3_Mai2015\obj\Debug\ConsoleClientPOP3_Mai2015.pdb
+Z:\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\bin\Debug\ConsoleClientPOP3_Mai2015.exe.config
+Z:\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\obj\Debug\ConsoleClientPOP3_Mai2015.exe
+Z:\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\obj\Debug\ConsoleClientPOP3_Mai2015.pdb
+Z:\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\bin\Debug\ConsoleClientPOP3_Mai2015.exe
+Z:\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\bin\Debug\ConsoleClientPOP3_Mai2015.pdb
+Z:\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\obj\Debug\ConsoleClientPOP3_Mai2015.csprojResolveAssemblyReference.cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\bin\Debug\ConsoleClientPOP3_Mai2015.exe.config
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\obj\Debug\ConsoleClientPOP3_Mai2015.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\obj\Debug\ConsoleClientPOP3_Mai2015.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\bin\Debug\ConsoleClientPOP3_Mai2015.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\bin\Debug\ConsoleClientPOP3_Mai2015.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\Réseaux\TP4\ClientPOP3\ConsoleClientPOP3_Mai2015\obj\Debug\ConsoleClientPOP3_Mai2015.csprojResolveAssemblyReference.cache
